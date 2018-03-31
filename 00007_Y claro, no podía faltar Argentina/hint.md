@@ -1,0 +1,1 @@
+Siempre es de ayuda contar cuántas bolitas de cada color hay en el tablero final, y cuántas veces usaste el comando `Poner`. :wink:
