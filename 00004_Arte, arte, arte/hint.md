@@ -1,0 +1,1 @@
+Como dibujamos la línea una sola vez, de izquierda a derecha, tendremos que terminar parados en el extremo derecho de la línea.
