@@ -1,0 +1,1 @@
+Prestá atención que en cada casillero solo pongas una bolita negra. Te puede ayudar contar cuántas bolita hay al final, y cuántos comandos `Poner` usaste. :wink:
