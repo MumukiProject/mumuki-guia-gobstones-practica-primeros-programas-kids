@@ -1,0 +1,1 @@
+Por si no te acordás, el programa anterior ponía una bolita roja :home:, luego se movía al este y ponía una negra :dog:.
