@@ -1,3 +1,5 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+
 Con esta alocada forma de dibujar :stuck_out_tongue_closed_eyes:, aprenderemos a hacer la bandera de una provincia de Argentina.
 
 Algunas pistas para que adivines de qué provincia hablamos:

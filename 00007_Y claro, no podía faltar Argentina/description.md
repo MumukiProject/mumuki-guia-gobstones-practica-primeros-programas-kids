@@ -1,3 +1,5 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+
 Al comité de los Juegos Olímpicos le gustó tanto nuestros dibujos, que nos pidieron hacer un programa para dibujar las banderas de los países participantes, así pueden proyectarlas en las tribunas :running_shirt_with_sash:. Hagamos entonces la Bandera Nacional de Argentina. :blush:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" alt="Bandera de Argentina" width="200px">

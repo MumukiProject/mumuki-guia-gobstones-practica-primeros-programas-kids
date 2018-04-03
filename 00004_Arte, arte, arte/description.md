@@ -1,3 +1,5 @@
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+
 Vamos a ensuciarnos un poco las manos, ¡haciendo arte! 
 
 ¿Arte? ¿Qué tiene que ver con la programación? Mucho, porque programar también es un arte, donde necesitamos creatividad para hacer que la máquina resuelva nuestros problemas. 
