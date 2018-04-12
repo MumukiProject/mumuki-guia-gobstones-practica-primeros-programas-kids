@@ -11,5 +11,4 @@ Algunas pistas para que adivines de qué provincia hablamos:
 
 ¿Adivinaste? :grimacing:
 
-> Sí, es la provincia de Misiones :grinning:. Acá te mostramos su bandera para que dibujes: 
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Bandera_de_la_Provincia_de_Misiones.svg" alt="" width="50px" height="25px">
+> Sí, es la provincia de Misiones :grinning: y esta es su bandera: <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Bandera_de_la_Provincia_de_Misiones.svg" alt="" width="50px" height="25px">. ¡Dibujala!
