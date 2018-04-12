@@ -1,4 +1,4 @@
-¡Ufff, qué trabajo! Nos quedó muy linda la bandera :relaxed:, pero el programa… fue un poco largo y complicado. :cold_sweat:
+¡Ufff, qué trabajo! Nos quedó muy linda la bandera :relaxed:, pero el programa... fue un poco largo y complicado. :cold_sweat:
 
 Con los comandos que tenemos, no podemos hacer mucho más. Pero para que vayas pensando: hay dos franjas celestes exactamente iguales, y los comandos que usaste para armarlas también son los mismos. 
 
