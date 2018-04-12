@@ -2,4 +2,4 @@
 
 Imaginate la cantidad de máquinas que podríamos programar si pudiéramos crear nuestras propias herramientas.
 
-¡Acompañanos en la próxima lección para descubrirlo!
+¡Acompañanos en la próxima lección para descubrirlo! :muscle:
