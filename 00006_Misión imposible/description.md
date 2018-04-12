@@ -4,7 +4,7 @@ Con esta alocada forma de dibujar :stuck_out_tongue_closed_eyes:, aprenderemos a
 
 Algunas pistas para que adivines de qué provincia hablamos:
 
-1. Su principal atracción turística ganó un concurso internacional, quedando entre las "7 maravillas naturales del mundo".
+1. Su principal atracción turística ganó un concurso internacional, quedando entre las _7 maravillas naturales del mundo_.
 2. Tiene un conocido punto geográfico donde se cruzan las fronteras de tres países: Argentina, Brasil y Paraguay. 
 3. Debido a la presencia de minerales ricos en hierro, su tierra se caracteriza por ser colorada. 
 4. Su capital es Posadas. 
