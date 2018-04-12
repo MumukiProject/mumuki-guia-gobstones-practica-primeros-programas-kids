@@ -2,7 +2,9 @@
 
 Como en los juegos donde tenemos dos imágenes casi iguales y nos piden  _encontrar las 7 diferencias_, queremos que busques y te imagines las diferencias entre estos dos programas:
 
-<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/images/anterior_1523547509827.png" alt="anterior_1523547509827.png" width="auto" height="auto"> <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/images/repaso_1523547307694.png" alt="repaso_1523547307694.png" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/images/anterior_1523547509827.png" alt="anterior_1523547509827.png" width="auto" height="auto">
+
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/images/repaso_1523547307694.png" alt="repaso_1523547307694.png" width="auto" height="auto">
 
  ¡Animate!
 
