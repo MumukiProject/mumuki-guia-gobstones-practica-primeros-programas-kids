@@ -1,10 +1,5 @@
-¡Excelente! Acá te dejamos otro ejemplo, donde ejecutamos el mismo programa en un tablero distinto. Prestale atención al programa y al resultado, para compararlo con el próximo ejercicio. :wink:
+¡Excelente! Recordá este programa que acabamos de probar porque nos será util en el pŕoximo ejercico: 
 
-```gobstones
-program {
-  Poner(Rojo)
-  Mover(Este)
-  Poner(Negro)
-}
-```
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/images/anterior_1523547509827.png" alt="anterior_1523547509827.png" width="auto" height="auto">
+
 
