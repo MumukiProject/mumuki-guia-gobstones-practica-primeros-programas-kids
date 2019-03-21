@@ -4,6 +4,6 @@ Basta de dibujar por un rato. Willie el jardinero necesita que lo ayudemos a pod
 
 <div align="center">
 ![Willie](https://cloud.githubusercontent.com/assets/1585835/13659284/ada8fe9c-e65e-11e5-876f-a241b1c488ca.png)
-<div align="center">
+</div>
 
 > Empezando en el casillero iluminado, armá un programa para que el robot corte el pasto, sacando las bolitas verdes del tablero.
