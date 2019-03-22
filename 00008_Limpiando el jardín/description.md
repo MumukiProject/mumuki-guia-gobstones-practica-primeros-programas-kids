@@ -1,4 +1,4 @@
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/assets/toolbox_1553281025747.xml"></gs-toolbox>
 
 Basta de dibujar por un rato. Willie el jardinero necesita que lo ayudemos a podar el jardín. Se compró un robot para cortar el pasto, pero no sabe cómo programarlo. 
 
