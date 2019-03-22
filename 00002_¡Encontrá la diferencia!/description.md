@@ -1,4 +1,4 @@
-<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/toolbox.xml"></gs-toolbox>
+<gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-practica-primeros-programas-kids/master/assets/toolbox_1553281025747.xml"></gs-toolbox>
 
 Como en los juegos donde tenemos dos imágenes casi iguales y nos piden  _encontrar las 7 diferencias_, queremos que busques las diferencias entre estos dos programas:
 
