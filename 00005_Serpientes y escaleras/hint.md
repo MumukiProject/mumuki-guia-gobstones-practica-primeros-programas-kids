@@ -1,1 +1,1 @@
-Prestá atención que en cada casillero solo pongas una bolita negra. Te puede ayudar contar cuántas bolitas hay en el tablero espardo, y cuántos comandos `Poner` usaste. :wink:
+Prestá atención que en cada casillero solo `pongas` una bolita `negra`. Te puede ayudar contar cuántas bolitas hay en el tablero espardo, y cuántos comandos `Poner` usaste.
